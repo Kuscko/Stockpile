@@ -34,4 +34,4 @@ foreach(string item in array[])
 Finish Shipping Options portion, then checkout.
 
 When enters a new database item(shipping or billing information)
-append this item to the end of the cboTextbox for respective item.
+append this item to the end of the cboTextbox for respective item
