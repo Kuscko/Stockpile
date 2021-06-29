@@ -1,0 +1,21 @@
+C:\Users\patri\AppData\Local\Temporary Projects\Stockpile\bin\Debug\Stockpile.exe.config
+C:\Users\patri\AppData\Local\Temporary Projects\Stockpile\bin\Debug\Stockpile.exe
+C:\Users\patri\AppData\Local\Temporary Projects\Stockpile\bin\Debug\Stockpile.pdb
+C:\Users\patri\AppData\Local\Temporary Projects\Stockpile\obj\Debug\Stockpile.csprojResolveAssemblyReference.cache
+C:\Users\patri\AppData\Local\Temporary Projects\Stockpile\obj\Debug\Stockpile.frmMain.resources
+C:\Users\patri\AppData\Local\Temporary Projects\Stockpile\obj\Debug\Stockpile.Properties.Resources.resources
+C:\Users\patri\AppData\Local\Temporary Projects\Stockpile\obj\Debug\Stockpile.csproj.GenerateResource.Cache
+C:\Users\patri\AppData\Local\Temporary Projects\Stockpile\obj\Debug\Stockpile.exe
+C:\Users\patri\AppData\Local\Temporary Projects\Stockpile\obj\Debug\Stockpile.pdb
+G:\Fall 2018\C#\Final Project\Stockpile\Stockpile\bin\Debug\Stockpile.exe.config
+G:\Fall 2018\C#\Final Project\Stockpile\Stockpile\obj\Debug\Stockpile.exe
+G:\Fall 2018\C#\Final Project\Stockpile\Stockpile\obj\Debug\Stockpile.pdb
+G:\Fall 2018\C#\Final Project\Stockpile\Stockpile\bin\Debug\Stockpile.exe
+G:\Fall 2018\C#\Final Project\Stockpile\Stockpile\bin\Debug\Stockpile.pdb
+G:\Fall 2018\C#\Final Project\Stockpile\Stockpile\obj\Debug\Stockpile.csprojResolveAssemblyReference.cache
+G:\Fall 2018\C#\Final Project\Stockpile\Stockpile\obj\Debug\Stockpile.frmMain.resources
+G:\Fall 2018\C#\Final Project\Stockpile\Stockpile\obj\Debug\Stockpile.Properties.Resources.resources
+G:\Fall 2018\C#\Final Project\Stockpile\Stockpile\obj\Debug\Stockpile.csproj.GenerateResource.Cache
+E:\Fall 2018\C#\Final Project\Stockpile\Stockpile\bin\Debug\Stockpile.exe.config
+E:\Fall 2018\C#\Final Project\Stockpile\Stockpile\obj\Debug\Stockpile.exe
+E:\Fall 2018\C#\Final Project\Stockpile\Stockpile\obj\Debug\Stockpile.pdb

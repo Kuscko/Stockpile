@@ -1,0 +1,93 @@
+G:\Fall 2018\C#\Final Project\Stockpile\Stockpile\bin\x86\Debug\Stockpile.exe.config
+G:\Fall 2018\C#\Final Project\Stockpile\Stockpile\bin\x86\Debug\StockpileDB.accdb
+G:\Fall 2018\C#\Final Project\Stockpile\Stockpile\bin\x86\Debug\Stockpile.exe
+G:\Fall 2018\C#\Final Project\Stockpile\Stockpile\bin\x86\Debug\Stockpile.pdb
+G:\Fall 2018\C#\Final Project\Stockpile\Stockpile\obj\x86\Debug\Stockpile.csprojResolveAssemblyReference.cache
+G:\Fall 2018\C#\Final Project\Stockpile\Stockpile\obj\x86\Debug\Stockpile.frmMain.resources
+G:\Fall 2018\C#\Final Project\Stockpile\Stockpile\obj\x86\Debug\Stockpile.Properties.Resources.resources
+G:\Fall 2018\C#\Final Project\Stockpile\Stockpile\obj\x86\Debug\Stockpile.csproj.GenerateResource.Cache
+G:\Fall 2018\C#\Final Project\Stockpile\Stockpile\obj\x86\Debug\Stockpile.exe
+G:\Fall 2018\C#\Final Project\Stockpile\Stockpile\obj\x86\Debug\Stockpile.pdb
+E:\Fall 2018\C#\Final Project\Stockpile\Stockpile\bin\x86\Debug\Stockpile.exe.config
+E:\Fall 2018\C#\Final Project\Stockpile\Stockpile\obj\x86\Debug\Stockpile.exe
+E:\Fall 2018\C#\Final Project\Stockpile\Stockpile\obj\x86\Debug\Stockpile.pdb
+G:\Fall 2018\C#\Final Project\Stockpile\Stockpile\obj\x86\Debug\Stockpile.frmRegister.resources
+G:\Fall 2018\C#\Final Project\Stockpile\Stockpile\obj\x86\Debug\Stockpile.frmLogin.resources
+G:\Fall 2018\C#\Final Project\Stockpile\Stockpile\obj\x86\Debug\Stockpile.frmProfile.resources
+G:\Fall 2018\C#\Final Project\Stockpile\Stockpile\obj\x86\Debug\Stockpile.ControlHolder.resources
+G:\Fall 2018\C#\Final Project\Stockpile\Stockpile\obj\x86\Debug\Stockpile.frmBillingANDShippingInfo.resources
+G:\Fall 2018\C#\Final Project\Stockpile\Stockpile\obj\x86\Debug\Stockpile.frmPurchaseHistory.resources
+G:\Fall 2018\C#\Final Project\Stockpile\Stockpile\obj\x86\Debug\Stockpile.frmSettings.resources
+G:\Fall 2018\C#\Final Project\Stockpile\Stockpile\obj\x86\Debug\Stockpile.frmShoppingCart.resources
+G:\Fall 2018\C#\Final Project\Stockpile\Stockpile\obj\x86\Debug\Stockpile.frmEditWishlists.resources
+E:\Fall 2018\C#\Final Project\Stockpile\Stockpile\bin\x86\Debug\StockpileDB.accdb
+E:\Fall 2018\C#\Final Project\Stockpile\Stockpile\bin\x86\Debug\Stockpile.exe
+E:\Fall 2018\C#\Final Project\Stockpile\Stockpile\bin\x86\Debug\Stockpile.pdb
+E:\Fall 2018\C#\Final Project\Stockpile\Stockpile\obj\x86\Debug\Stockpile.csprojResolveAssemblyReference.cache
+E:\Fall 2018\C#\Final Project\Stockpile\Stockpile\obj\x86\Debug\Stockpile.ControlHolder.resources
+E:\Fall 2018\C#\Final Project\Stockpile\Stockpile\obj\x86\Debug\Stockpile.frmBillingANDShippingInfo.resources
+E:\Fall 2018\C#\Final Project\Stockpile\Stockpile\obj\x86\Debug\Stockpile.frmEditWishlists.resources
+E:\Fall 2018\C#\Final Project\Stockpile\Stockpile\obj\x86\Debug\Stockpile.frmLogin.resources
+E:\Fall 2018\C#\Final Project\Stockpile\Stockpile\obj\x86\Debug\Stockpile.frmMain.resources
+E:\Fall 2018\C#\Final Project\Stockpile\Stockpile\obj\x86\Debug\Stockpile.frmPurchaseHistory.resources
+E:\Fall 2018\C#\Final Project\Stockpile\Stockpile\obj\x86\Debug\Stockpile.frmProfile.resources
+E:\Fall 2018\C#\Final Project\Stockpile\Stockpile\obj\x86\Debug\Stockpile.frmRegister.resources
+E:\Fall 2018\C#\Final Project\Stockpile\Stockpile\obj\x86\Debug\Stockpile.frmSettings.resources
+E:\Fall 2018\C#\Final Project\Stockpile\Stockpile\obj\x86\Debug\Stockpile.frmShoppingCart.resources
+E:\Fall 2018\C#\Final Project\Stockpile\Stockpile\obj\x86\Debug\Stockpile.Properties.Resources.resources
+E:\Fall 2018\C#\Final Project\Stockpile\Stockpile\obj\x86\Debug\Stockpile.csproj.GenerateResource.Cache
+G:\Fall 2018\C#\Final Project\Stockpile\Stockpile\obj\x86\Debug\Stockpile.frmRegisterTOS.resources
+G:\Fall 2018\C#\Final Project\Stockpile\Stockpile\bin\x86\Debug\Properties\Resources.resx
+G:\Fall 2018\C#\Final Project\Stockpile\Stockpile\bin\x86\Debug\Properties\Resources.Designer.cs
+G:\Fall 2018\C#\Final Project\Stockpile\Stockpile\obj\x86\Debug\Stockpile.frmWishListNameDialog.resources
+E:\Fall 2018\C#\Final Project\Stockpile\Stockpile\bin\x86\Debug\Properties\Resources.resx
+E:\Fall 2018\C#\Final Project\Stockpile\Stockpile\bin\x86\Debug\Properties\Resources.Designer.cs
+E:\Fall 2018\C#\Final Project\Stockpile\Stockpile\obj\x86\Debug\Stockpile.frmRegisterTOS.resources
+E:\Fall 2018\C#\Final Project\Stockpile\Stockpile\obj\x86\Debug\Stockpile.frmWishListNameDialog.resources
+E:\Backup fall 2018\Patrick's Classes\Fall 2018\C#\Final Project\Stockpile\Stockpile\bin\x86\Debug\Stockpile.exe.config
+E:\Backup fall 2018\Patrick's Classes\Fall 2018\C#\Final Project\Stockpile\Stockpile\obj\x86\Debug\Stockpile.exe
+E:\Backup fall 2018\Patrick's Classes\Fall 2018\C#\Final Project\Stockpile\Stockpile\obj\x86\Debug\Stockpile.pdb
+E:\Backup fall 2018\Patrick's Classes\Fall 2018\C#\Final Project\Stockpile\Stockpile\bin\x86\Debug\StockpileDB.accdb
+E:\Backup fall 2018\Patrick's Classes\Fall 2018\C#\Final Project\Stockpile\Stockpile\bin\x86\Debug\Properties\Resources.resx
+E:\Backup fall 2018\Patrick's Classes\Fall 2018\C#\Final Project\Stockpile\Stockpile\bin\x86\Debug\Properties\Resources.Designer.cs
+E:\Backup fall 2018\Patrick's Classes\Fall 2018\C#\Final Project\Stockpile\Stockpile\bin\x86\Debug\Stockpile.exe
+E:\Backup fall 2018\Patrick's Classes\Fall 2018\C#\Final Project\Stockpile\Stockpile\bin\x86\Debug\Stockpile.pdb
+E:\Backup fall 2018\Patrick's Classes\Fall 2018\C#\Final Project\Stockpile\Stockpile\obj\x86\Debug\Stockpile.csprojResolveAssemblyReference.cache
+E:\Backup fall 2018\Patrick's Classes\Fall 2018\C#\Final Project\Stockpile\Stockpile\obj\x86\Debug\Stockpile.ControlHolder.resources
+E:\Backup fall 2018\Patrick's Classes\Fall 2018\C#\Final Project\Stockpile\Stockpile\obj\x86\Debug\Stockpile.frmBillingANDShippingInfo.resources
+E:\Backup fall 2018\Patrick's Classes\Fall 2018\C#\Final Project\Stockpile\Stockpile\obj\x86\Debug\Stockpile.frmEditWishlists.resources
+E:\Backup fall 2018\Patrick's Classes\Fall 2018\C#\Final Project\Stockpile\Stockpile\obj\x86\Debug\Stockpile.frmLogin.resources
+E:\Backup fall 2018\Patrick's Classes\Fall 2018\C#\Final Project\Stockpile\Stockpile\obj\x86\Debug\Stockpile.frmMain.resources
+E:\Backup fall 2018\Patrick's Classes\Fall 2018\C#\Final Project\Stockpile\Stockpile\obj\x86\Debug\Stockpile.frmPurchaseHistory.resources
+E:\Backup fall 2018\Patrick's Classes\Fall 2018\C#\Final Project\Stockpile\Stockpile\obj\x86\Debug\Stockpile.frmProfile.resources
+E:\Backup fall 2018\Patrick's Classes\Fall 2018\C#\Final Project\Stockpile\Stockpile\obj\x86\Debug\Stockpile.frmRegister.resources
+E:\Backup fall 2018\Patrick's Classes\Fall 2018\C#\Final Project\Stockpile\Stockpile\obj\x86\Debug\Stockpile.frmRegisterTOS.resources
+E:\Backup fall 2018\Patrick's Classes\Fall 2018\C#\Final Project\Stockpile\Stockpile\obj\x86\Debug\Stockpile.frmSettings.resources
+E:\Backup fall 2018\Patrick's Classes\Fall 2018\C#\Final Project\Stockpile\Stockpile\obj\x86\Debug\Stockpile.frmShoppingCart.resources
+E:\Backup fall 2018\Patrick's Classes\Fall 2018\C#\Final Project\Stockpile\Stockpile\obj\x86\Debug\Stockpile.frmWishListNameDialog.resources
+E:\Backup fall 2018\Patrick's Classes\Fall 2018\C#\Final Project\Stockpile\Stockpile\obj\x86\Debug\Stockpile.Properties.Resources.resources
+E:\Backup fall 2018\Patrick's Classes\Fall 2018\C#\Final Project\Stockpile\Stockpile\obj\x86\Debug\Stockpile.csproj.GenerateResource.Cache
+F:\Backup fall 2018\Patrick's Classes\Fall 2018\C#\Final Project\Stockpile\Stockpile\bin\x86\Debug\StockpileDB.accdb
+F:\Backup fall 2018\Patrick's Classes\Fall 2018\C#\Final Project\Stockpile\Stockpile\bin\x86\Debug\Properties\Resources.resx
+F:\Backup fall 2018\Patrick's Classes\Fall 2018\C#\Final Project\Stockpile\Stockpile\bin\x86\Debug\Properties\Resources.Designer.cs
+F:\Backup fall 2018\Patrick's Classes\Fall 2018\C#\Final Project\Stockpile\Stockpile\bin\x86\Debug\Stockpile.exe.config
+F:\Backup fall 2018\Patrick's Classes\Fall 2018\C#\Final Project\Stockpile\Stockpile\bin\x86\Debug\Stockpile.exe
+F:\Backup fall 2018\Patrick's Classes\Fall 2018\C#\Final Project\Stockpile\Stockpile\bin\x86\Debug\Stockpile.pdb
+F:\Backup fall 2018\Patrick's Classes\Fall 2018\C#\Final Project\Stockpile\Stockpile\obj\x86\Debug\Stockpile.csprojAssemblyReference.cache
+F:\Backup fall 2018\Patrick's Classes\Fall 2018\C#\Final Project\Stockpile\Stockpile\obj\x86\Debug\Stockpile.ControlHolder.resources
+F:\Backup fall 2018\Patrick's Classes\Fall 2018\C#\Final Project\Stockpile\Stockpile\obj\x86\Debug\Stockpile.frmBillingANDShippingInfo.resources
+F:\Backup fall 2018\Patrick's Classes\Fall 2018\C#\Final Project\Stockpile\Stockpile\obj\x86\Debug\Stockpile.frmEditWishlists.resources
+F:\Backup fall 2018\Patrick's Classes\Fall 2018\C#\Final Project\Stockpile\Stockpile\obj\x86\Debug\Stockpile.frmLogin.resources
+F:\Backup fall 2018\Patrick's Classes\Fall 2018\C#\Final Project\Stockpile\Stockpile\obj\x86\Debug\Stockpile.frmMain.resources
+F:\Backup fall 2018\Patrick's Classes\Fall 2018\C#\Final Project\Stockpile\Stockpile\obj\x86\Debug\Stockpile.frmPurchaseHistory.resources
+F:\Backup fall 2018\Patrick's Classes\Fall 2018\C#\Final Project\Stockpile\Stockpile\obj\x86\Debug\Stockpile.frmProfile.resources
+F:\Backup fall 2018\Patrick's Classes\Fall 2018\C#\Final Project\Stockpile\Stockpile\obj\x86\Debug\Stockpile.frmRegister.resources
+F:\Backup fall 2018\Patrick's Classes\Fall 2018\C#\Final Project\Stockpile\Stockpile\obj\x86\Debug\Stockpile.frmRegisterTOS.resources
+F:\Backup fall 2018\Patrick's Classes\Fall 2018\C#\Final Project\Stockpile\Stockpile\obj\x86\Debug\Stockpile.frmSettings.resources
+F:\Backup fall 2018\Patrick's Classes\Fall 2018\C#\Final Project\Stockpile\Stockpile\obj\x86\Debug\Stockpile.frmShoppingCart.resources
+F:\Backup fall 2018\Patrick's Classes\Fall 2018\C#\Final Project\Stockpile\Stockpile\obj\x86\Debug\Stockpile.frmWishListNameDialog.resources
+F:\Backup fall 2018\Patrick's Classes\Fall 2018\C#\Final Project\Stockpile\Stockpile\obj\x86\Debug\Stockpile.Properties.Resources.resources
+F:\Backup fall 2018\Patrick's Classes\Fall 2018\C#\Final Project\Stockpile\Stockpile\obj\x86\Debug\Stockpile.csproj.GenerateResource.cache
+F:\Backup fall 2018\Patrick's Classes\Fall 2018\C#\Final Project\Stockpile\Stockpile\obj\x86\Debug\Stockpile.csproj.CoreCompileInputs.cache
+F:\Backup fall 2018\Patrick's Classes\Fall 2018\C#\Final Project\Stockpile\Stockpile\obj\x86\Debug\Stockpile.exe
+F:\Backup fall 2018\Patrick's Classes\Fall 2018\C#\Final Project\Stockpile\Stockpile\obj\x86\Debug\Stockpile.pdb

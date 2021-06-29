@@ -1,0 +1,37 @@
+frmMain
+	Populate Wishlists
+		- Create Wishlist Table
+		- On close check if there is something in the shopping cart. If there is then ask if the user wants to save these items to or as a wishlist.
+			* saveAsWishlist - INSERT
+			* saveToWishlist - UPDATE
+		- SELECT *
+		- FROM WishListDB
+		- WHERE UserID = @UserID
+			WishlistCBO - Default Value: None (index 0)
+		(UPDATE OR INSERT ACCORDINGLY) 
+
+	Populate Billing Information comboboxes at the bottom using UserID
+	Populate Shipping Information comboboxes at the bottom using UserID
+		- If "Same as billing inforamtion" chkBox is selected then populate OrderDescription using that info
+	
+Taxes are dependant on the user's location (shipping, billing), get customer's state. Customer's state tax; example Florida = 0.07m.
+
+When the user adds an item to the cart that is already there, just update that exiting
+items item number and price at the bottom. 
+
+Go through LoginFrm, RegistrationFrm, MainFrm, All DB classes and begin commenting.
+
+Additem to array[,]
+- additem[0, 0].item name
+- additem[0, 1].item desc
+- additem[0, 2].item price.tostring
+.
+for(i = 0, i <= array.length; i++)
+foreach(string item in array[])
+           if(item[i, 0] = product.Name)
+                           item[i, 3] = updateQuanitty()
+
+Finish Shipping Options portion, then checkout.
+
+When enters a new database item(shipping or billing information)
+append this item to the end of the cboTextbox for respective item.
